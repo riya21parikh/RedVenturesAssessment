@@ -1,4 +1,4 @@
-# RedVenturesAssessment
+# Red Ventures Assessment
 
 ## Part 1
 The most clicks, bookings, and revenues do not all come from the same combinations of placement and CTA banner.
@@ -6,3 +6,6 @@ The majority of clicks and bookings come from CTA 2 ("Get preapproved...") with 
 I strongly believe that, as a company, if we are trying to maximize revenue we should eliminate "Access your personalized mortgage rates now" especially with bottom placement ** and **serve "First time? We've made it easy to find the best mortgage rate." with bottom placement as our champion. However, we should note here that the most bookings differs from the one with the highest revenue. We should continue to monitor the high booking combination as well as there may be the exception that a high-booking CTA consistently converts customers into loyal users who bring additional value over time. If we called one of these CTA combinations our champion (serve it 100% of the time), we gain $ 9719.44 incrementally vs. the average of the rest of the split test.
 
 ## Part 2
+
+
+## Part 3
